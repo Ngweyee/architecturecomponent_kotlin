@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyWeather</string>
+    <string name="action_settings">Settings</string>
+    <string name="openWeather">5cb0faef1d2104d698d886151990ec8f</string>
+</resources>
